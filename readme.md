@@ -29,9 +29,11 @@ Abra o arquivo inicial.ipynb em um ambiente como Jupyter Notebook ou Visual Stud
 
 ## A análise permite identificar os principais motivos associados ao cancelamento, como:
 
-contratos mensais;
-grande quantidade de ligações ao call center;
-atrasos frequentes no pagamento.
+Contratos mensais;
+
+Grande quantidade de ligações ao call center;
+
+Atrasos frequentes no pagamento.
 
 Com base nesses insights, é possível sugerir ações para reduzir o cancelamento, como melhorias no atendimento, alertas para clientes em atraso e incentivos para contratos mais longos.
 
