@@ -1,7 +1,6 @@
 # Projeto: Análise de Cancelamento de Clientes
 
 Este projeto tem como objetivo entender os principais fatores que levam clientes a cancelar um serviço, a partir de uma base de dados com informações de comportamento, contratos, ligações ao call center e atrasos de pagamento. A análise é feita com Python, utilizando as bibliotecas pandas e plotly para tratamento de dados e visualização.
----
 
 ## Como rodar o projeto
 
@@ -10,6 +9,7 @@ Instale o Python e as bibliotecas necessárias:
 pandas
 plotly
 jupyter (opcional, para abrir o notebook)
+
 Faça a instalação com o comando:
 
 `pip install pandas plotly jupyter`
